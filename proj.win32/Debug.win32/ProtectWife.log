@@ -1,0 +1,87 @@
+﻿生成启动时间为 2017/5/25 20:40:18。
+     1>项目“D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\ProtectWife.vcxproj”在节点 4 上(Build 个目标)。
+     1>ClCompile:
+         D:\visual studio\VC\bin\CL.exe /c /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx\include" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx\kazmath\include" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx\platform\win32" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx\platform\third_party\win32" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\cocos2dx\platform\third_party\win32\OGLES" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\external" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\external\chipmunk\include\chipmunk" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\CocosDenshion\include" /I"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\extensions" /I..\Classes /I.. /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USE_MATH_DEFINES /D GL_GLEXT_PROTOTYPES /D CC_ENABLE_CHIPMUNK_INTEGRATION=1 /D COCOS2D_DEBUG=1 /D _CRT_SECURE_NO_WARNINGS /D _SCL_SECURE_NO_WARNINGS /D _USING_V110_SDK71_ /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug.win32\\" /Fd"Debug.win32\vc120.pdb" /Gd /TP /wd4267 /wd4251 /wd4244 /analyze- /errorReport:prompt ..\Classes\AI.cpp ..\Classes\AppDelegate.cpp ..\Classes\BigFire.cpp ..\Classes\Bullet.cpp ..\Classes\GameAbout.cpp ..\Classes\GameLayer.cpp ..\Classes\MenuLayer.cpp ..\Classes\Music.cpp ..\Classes\Panel.cpp ..\Classes\PayLayer.cpp ..\Classes\Prop.cpp ..\Classes\QuitDialog.cpp ..\Classes\SceneScore.cpp ..\Classes\StartLayer.cpp ..\Classes\Tank.cpp
+         AI.cpp
+         正在生成代码...
+         正在编译...
+         Tank.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\tank.cpp(28): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\tank.cpp(34): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\tank.cpp(200): warning C4305: “参数”: 从“double”到“float”截断
+         StartLayer.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(61): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(62): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(63): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(64): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(65): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(66): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(80): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\startlayer.cpp(81): warning C4305: “参数”: 从“double”到“float”截断
+         SceneScore.cpp
+         QuitDialog.cpp
+         Prop.cpp
+         PayLayer.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(37): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(43): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(48): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(77): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(78): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(79): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(81): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(82): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(83): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(85): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(86): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\paylayer.cpp(87): warning C4305: “参数”: 从“double”到“float”截断
+         Panel.cpp
+         Music.cpp
+         MenuLayer.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\menulayer.cpp(197): warning C4305: “参数”: 从“double”到“float”截断
+         GameLayer.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\gamelayer.cpp(205): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\gamelayer.cpp(1024): warning C4305: “参数”: 从“double”到“float”截断
+         GameAbout.cpp
+         Bullet.cpp
+         BigFire.cpp
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\bigfire.cpp(15): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\bigfire.cpp(27): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\bigfire.cpp(39): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\bigfire.cpp(105): warning C4305: “参数”: 从“double”到“float”截断
+     1>d:\cocos2d-x-2.2.6\projects\protectwife\classes\bigfire.cpp(113): warning C4305: “参数”: 从“double”到“float”截断
+         AppDelegate.cpp
+         正在生成代码...
+       PreLinkEvent:
+         if not exist "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\" mkdir "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\"
+         xcopy /Y /Q "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\..\..\..\external\libwebsockets\win32\lib\*.*" "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\"
+         :VCEnd
+         复制了 2 个文件
+       Link:
+         D:\visual studio\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\ProtectWife.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\\" libExtensions.lib libcocos2d.lib libCocosDenshion.lib opengl32.lib glew32.lib libBox2d.lib libchipmunk.lib libcurl_imp.lib pthreadVCE2.lib websockets.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\ProtectWife.pdb" /SUBSYSTEM:WINDOWS,"5.01" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\ProtectWife.lib" /MACHINE:X86 /SAFESEH Debug.win32\AI.obj
+         Debug.win32\AppDelegate.obj
+         Debug.win32\BigFire.obj
+         Debug.win32\Bullet.obj
+         Debug.win32\GameAbout.obj
+         Debug.win32\GameLayer.obj
+         Debug.win32\MenuLayer.obj
+         Debug.win32\Music.obj
+         Debug.win32\Panel.obj
+         Debug.win32\PayLayer.obj
+         Debug.win32\Prop.obj
+         Debug.win32\QuitDialog.obj
+         Debug.win32\SceneScore.obj
+         Debug.win32\StartLayer.obj
+         Debug.win32\Tank.obj
+         Debug.win32\main.obj
+         "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\libcocos2d.lib"
+         "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\libCocosDenshion.lib"
+         "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\libExtensions.lib"
+         "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\libBox2D.lib"
+         "D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\libchipmunk.lib"
+     1>AI.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/SAFESEH”规范)
+         ProtectWife.vcxproj -> D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\Debug.win32\ProtectWife.exe
+     1>已完成生成项目“D:\cocos2d-x-2.2.6\projects\ProtectWife\proj.win32\ProtectWife.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:51.41

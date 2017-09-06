@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="40" height="60" tilewidth="48" tileheight="48">
+ <tileset firstgid="1" name="landform" tilewidth="48" tileheight="48">
+  <image source="landform/landform.png" trans="000000" width="288" height="288"/>
+ </tileset>
+ <layer name="layer_0" width="40" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+2Y2w7CMAiGe9Ubo77/23qhSwjh8EOhTrM/Iakbha/0sLkxLl1661Fg3WwZVi3Gxfe2qVgFH+Jv1SLDF2HUfL242fmNyBpLliW7l6XfGl9FrSJ9o3xTuNYlaZ2OgfPxMWpjpm0+Pu5PY1TwcWl8NKeWi/et4rM4rf4SHz+buvgma2smMR7XOuZ3Cn5Im+blfFzWueDV79/5aLuCj/tk+bSxVvFZfqt81v5A+HhchGkOfK1E+bxnhCXt+WidBSt83vPCqquUk/5e5aN9JWYek/bXrIJP4ukwhE+rg3YfjSP58WtZPm1trciKFeHj93eYld8bDzJ/1ULXzbek1Xj3vCIMZ9XFt6Zf4DuzpD2Cnp9WvEx+j8PjewIW8X0qebJ8kXqg6uJD3z8PX+/7pcWRlcToxdz5XUzKt5uP///y8qFz4sVFFeW7fywb19qP1tpG2Dx/RFXvLBZzxx7g3+qotLFkzkXPP1O3Kj4kP72PzsXZ+axYnXyHbsw6tMontZGcu+onta0+x/UzzO+3+dDYK+o8/7yc3dLeRyNjjvRB8kWew9VrorrmWb6VmlC9AGRZ7biAJQAA
+  </data>
+ </layer>
+ <layer name="layer_1" width="40" height="60">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC+3UwQqAMAiAYQ9d9v4v3CmIMRVb6g7/B2NgNZ21hogMY2TbzZ1dq7duZa9WuSPXq+vUcnnvubOfc26tzspzYtXQqbsvAAAAAAAAAAAAJ7im2Ys/sXl4OSL3/1FfhLZ25Nns+k7u3w5tT9Zed/rxpb737MW1WBa+v57zW/X/AyrdDzabpIAlAAA=
+  </data>
+ </layer>
+</map>
