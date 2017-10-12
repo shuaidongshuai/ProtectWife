@@ -1,1 +1,25 @@
 # ProtectWife
+C++写的安卓手游
+=
+利用的是cocos2d-x游戏引擎
+-
+算是对塔克大战的改进版本吧 
+1.地图可以移动（很大） 
+2.增加媳妇元素 
+3.改变玩法（通关条件） 
+4.增加3个大招 
+5.可以上传分数 
+6.增加商店功能
+![dong1](http://img.blog.csdn.net/20171012173013406?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong2](http://img.blog.csdn.net/20171012173254059?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong3](http://img.blog.csdn.net/20171012173424623?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong4](http://img.blog.csdn.net/20171012173658505?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong5](http://img.blog.csdn.net/20171012173947733?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong6](http://img.blog.csdn.net/20171012174246421?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong7](http://img.blog.csdn.net/20171012174651644?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong8](http://img.blog.csdn.net/20171012175139457?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong9](http://img.blog.csdn.net/20171012175250030?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong10](http://img.blog.csdn.net/20171012175333964?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong11](http://img.blog.csdn.net/20171012175702339?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong12](http://img.blog.csdn.net/20171012175828580?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
+![dong13](http://img.blog.csdn.net/20171012181352456?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvUFJPR1JBTV9hbnl3aGVyZQ==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/SouthEast)
